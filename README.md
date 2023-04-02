@@ -8,10 +8,9 @@ A simple tool that shortens Amazon URLs and puts them in your clipboard to be pa
 <p>Example Execution</p>
 </div>
 
-Amazon URLs, at times, have the tendency to be longer than Wiz Khalifa's supposed "money" as he so intricately once claimed. Take a look at the below example.
+Amazon URLs, at times, have the tendency to be longer than Burj Khalifa 😂 . Take a look at the below example.
 
 <div align="center">
-"My money long." —Wiz Khalifa
 </div>
 <br>
 
@@ -23,7 +22,7 @@ https://www.amazon.com/Noctua-NF-A12x25-PWM-Premium-Quality-Quiet/dp/B07C5VG64V/
 
 <div align="center">
 <img src="./Images/Complete URL.png">
-<p>Wiz Khalifa URL</p>
+<p>Burj Khalifa URL</p>
 </div>
 
 And Amazon URL Shortener would output this cleaner, shorter, and—obviously—functional version of the URL:
@@ -37,7 +36,7 @@ And Amazon URL Shortener would output this cleaner, shorter, and—obviously—f
 
 Beautiful, isn't it?
 
-This project was created in Python, for personal use. Sending friends and family Amazon URLs was an eyesore, so this was conceived as soon as I noticed a consistent pattern of redundancy within Amazon URLs.
+This project was created in Python. Sending friends and family Amazon URLs was an eyesore, so this was conceived as soon as we noticed a consistent pattern of redundancy within Amazon URLs.
 
 ## Dependencies to PIP-Install
 - **colorama** (for colors)
